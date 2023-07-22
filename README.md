@@ -11,11 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       1 hr 35 mins    ██████████████████░░░░░░░   71.44 %
-TOML         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-JSON         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-JavaScript   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-YAML         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
