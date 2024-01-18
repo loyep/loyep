@@ -11,8 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         0 secs          ████████████████████████▓   98.59 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Markdown         0 secs          ██████████████████████▒░░   89.54 %
+JSON             0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
